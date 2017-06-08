@@ -28,7 +28,7 @@ sh upload_website.sh <s3-bucket-name>
 
 And visit the url you saved before. You should see something like this:
 
-![](https://tinybits.awsbryan.com/0l1Qd3oMc8.gif)
+![SAM Screenshot](/img/sam-screenshot.png)
 
 Ta-da, a working website! SAM the squirrel may be all alone right now, but we'll fix that in a bit.
 
