@@ -119,3 +119,4 @@ var samCount = 15;
 Commit and push the changes. 
 
 Go back to the pipeline we generated in Step 3, you will see AWS CodePipeline automatically pick up your change, and start the build and deploy process. Voila! A completely version controlled, serverless, CI/CD solution to give a squirrel a few friends. Technology!
+serverless-sam
