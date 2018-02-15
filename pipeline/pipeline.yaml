@@ -101,7 +101,7 @@ Resources:
           Condition:
             Bool:
               aws:SecureTransport: false
-  ProjectPipeline:
+  projectpipeline:
     DependsOn: [S3Bucket, CodeBuildProject]
     Description: Creating a deployment pipeline for your project in AWS CodePipeline
     Type: AWS::CodePipeline::Pipeline
